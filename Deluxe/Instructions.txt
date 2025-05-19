@@ -1,8 +1,8 @@
-~ Binder :: PenGear :: 1 Inch D-Ring Heavy Duty, 300 Pages
+~ Binder :: PenGear :: 1 Inch 3-Ring Heavy Duty, 300 Pages
 * $6
 * https://www.walmart.com/ip/Pen-Gear-Heavy-Duty-View-1-D-Ring-Binder-Red/5500052374
 
-~ Transparent Sheet Protectors :: 1 Inch D-Ring, 200 Pages
+~ Transparent Sheet Protectors :: 1 Inch 3-Ring, 200 Pages
 * $20
 * https://www.walmart.com/ip/MaxGear-Sheet-Protector-8-5-x-11-inch-Non-Glare-Clear-Page-Protectors-Paper-Protector-for-3-Ring-Binder-Top-Loading-200-Pack/5285186977
 
@@ -34,6 +34,6 @@ Step #02: Print the CerberusCMS - 6 Manual
 Step #03: Download the CerberusCMS - 6 Software Packages From SourceForge.net
 Step #04: Burn / Write the CerberusCMS - 6 Software Packages and Software Videos from SourceForge.net to the Digital Data Discs
 Step #05: Insert each printed page into a transparent sheet protector
-Step $06: Insert the piled sheet protected pages into the 1 Inch D-Ring Binder
+Step $06: Insert the piled sheet protected pages into the 1 Inch 3-Ring Binder
 Step #07: Apply metal decal sticker of CerberusCMS - 6 onto the Digital Data Disc surfaces
 Step #08: Insert the Digital Data Discs into the metallic cases.
